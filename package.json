@@ -1,0 +1,16 @@
+{
+  "name": "zap",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "express": "^4.17.1",
+    "esbuild": "^0.12.28",
+    "chokidar": "^3.5.3"
+  }
+}
